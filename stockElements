@@ -1,0 +1,26 @@
+[
+{
+symbol: "GOOG",
+description: "Google",
+price: 327.4594091863143,
+change: "-0.24",
+},
+{
+symbol: "MSFT",
+description: "Microsoft",
+price: 395.00985878429395,
+change: "+3.24",
+},
+{
+symbol: "FB"
+description: "Facebook",
+price: 496.1319318763147,
+change: "+3.24",
+},
+{
+symbol: "TESLA" ,
+description: "Tesla",
+price: 238.50922480532086,
+change: "+3.24"
+}
+]
